@@ -439,7 +439,7 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - [madelinecodes](https://github.com/madelinecodes/beginner-projects)
 - [Recandi](https://github.com/Recandi/rust-beginner-projects)
 - [tmug94](https://github.com/tmug94/beginner_project_solutions)
-
+- [mrreach9](https://github.com/mrreach9/beginner-project-solutions.git)
 ## Contributing
 Contributing to this repository in any way is encouraged.
 
